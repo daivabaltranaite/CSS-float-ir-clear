@@ -1,0 +1,46 @@
+body {
+  width: 850px;
+  margin: 20px auto;
+}
+
+.pavadinimas {
+  text-align: center;
+  font-size: 30px;
+}
+
+.foto1 {
+  width: 250px;
+  float: left;
+  margin: 0 30px 20px 0;
+}
+
+.pastraipa {
+  text-align: justify;
+  margin: 50px 0;
+}
+
+.pirma {
+  margin-top: 30px;
+}
+
+.tarpas-po-pastraipa {
+  clear: both;
+}
+
+.foto2 {
+  height: 250px;
+  float: right;
+  margin: 0 0px 30px 40px;
+}
+
+.trumpa-pastraipa-1 {
+  width: calc(50% - 10px);
+  float: left;
+  margin: 0 10px 0 0;
+}
+
+.trumpa-pastraipa-2 {
+  width: calc(50% - 10px);
+  float: left;
+  margin: 0 0 0 10px;
+}
